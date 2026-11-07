@@ -1,0 +1,10 @@
+# Las transcripciones traen nombres de estudiantes: se quedan solo en este PC
+transcripciones/
+
+# Python
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Secretos
+.env

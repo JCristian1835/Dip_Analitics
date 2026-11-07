@@ -1,0 +1,17 @@
+fecha,dia,producto,categoria,unidades,precio_unitario,temperatura_c
+2026-03-02,lunes,Limonada,bebida,12,4000,19
+2026-03-02,lunes,Sandwich,comida,8,9000,19
+2026-03-03,martes,Limonada,bebida,15,4000,21
+2026-03-03,martes,Sandwich,comida,9,9000,21
+2026-03-04,miercoles,Limonada,bebida,20,4000,24
+2026-03-04,miercoles,Sandwich,comida,7,9000,24
+2026-03-05,jueves,Limonada,bebida,9,4000,16
+2026-03-05,jueves,Sandwich,comida,,9000,16
+2026-03-06,viernes,Limonada,bebida,26,4000,26
+2026-03-06,viernes,Sandwich,comida,14,9000,26
+2026-03-07,sabado,Limonada,bebida,30,4000,28
+2026-03-07,sabado,Sandwich,comida,16,9000,28
+2026-03-09,lunes,Limonada,bebida,11,4000,18
+2026-03-09,lunes,Sandwich,comida,8,9000,18
+2026-03-10,martes,Limonada,bebida,17,4000,22
+2026-03-10,martes,Sandwich,comida,10,9000,22
